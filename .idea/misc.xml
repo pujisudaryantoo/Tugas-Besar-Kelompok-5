@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/drawable/bd_blue.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/layout/activity_detail_laporan_lainnya.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/layout/activity_edit_data.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/layout/activity_frag1_kontak.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/layout/activity_frag2__pesan.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/layout/activity_info.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/layout/activity_laporan_lainnya.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/layout/activity_splash_screen.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/layout/activity_tab__main.xml" value="0.3493975903614458" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/layout/activity_tambah_pengeluaran.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/layout/bd_blue.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/layout/row_border_bottom.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/layout/row_list.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/layout/row_list_pengeluaran.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TubesMBKelompok5/app/src/main/res/menu/menu.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

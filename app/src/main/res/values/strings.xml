@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tugas Besar Mobile Programming</string>
+    <string name="admob_interstitial_id">ca-app-pub-5131706815520893/5185405543</string>
+    <string name="dateerror">Enter a valid date</string>
+</resources>
